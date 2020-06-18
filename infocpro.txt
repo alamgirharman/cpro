@@ -1,5 +1,17 @@
+***Terminal Commands***
+
+C Programming:
 Compile:
 gcc hello.c -o hello
 
 Run Program:
 ./hello
+
+..................
+GIT:
+git status
+git add .
+git commit -m "write your comment within double quote"
+
+Push on GITHUB:
+git push -u origin master
