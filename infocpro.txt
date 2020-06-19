@@ -7,6 +7,9 @@ gcc hello.c -o hello
 Run Program:
 ./hello
 
+Compile and run command:
+gcc fileName.c -o anyName && ./anyName
+
 ..................
 GIT:
 git status
