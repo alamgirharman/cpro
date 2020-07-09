@@ -1,14 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    int a;
-    int b;
-    int sum;
 
-    a = 50;
-    b = 60;
-    sum = a + b;
+    char myName = "Arman";
 
-    printf("%d + %d = %d", a, b, sum);
+    printf("My name is: %c", myName);
+
     return 0;
 }
