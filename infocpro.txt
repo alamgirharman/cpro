@@ -9,12 +9,3 @@ Run Program:
 
 Compile and run command:
 gcc fileName.c -o anyName && ./anyName
-
-..................
-GIT:
-git status
-git add .
-git commit -m "write your comment within double quote"
-
-Push on GITHUB:
-git push -u origin master
