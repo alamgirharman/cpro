@@ -9,3 +9,4 @@ Run Program:
 
 Compile and run command:
 gcc fileName.c -o anyName && ./anyName
+("-o" means object file)
