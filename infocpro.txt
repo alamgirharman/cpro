@@ -3,6 +3,7 @@
 C Programming:
 Compile:
 gcc hello.c -o hello
+("-o" means object file)
 
 Run Program:
 ./hello
