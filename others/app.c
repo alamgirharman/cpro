@@ -1,10 +1,33 @@
 #include <stdio.h>
 
 int main() {
+    int i, j;
+    char text[] = {'c', '\0'};
 
-    char myName = "Arman";
+    for(i= 7; i > 0; i--) {
+        for(j = 0; j < i; j++) {
+            printf("%s", text);
+        }
+           if(i > 1) {
+               printf("\n");
+           } 
+    }
 
-    printf("My name is: %c", myName);
+    printf("\n");
+
+    for(i= 2; i < 8; i++) {
+        for(j = 0; j < i; j++) {
+            printf("%s", text);
+        }
+           
+               printf("\n");
+           
+    }
+    
+
+        
+
+    
 
     return 0;
 }
